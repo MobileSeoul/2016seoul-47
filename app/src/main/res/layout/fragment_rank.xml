@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+    <TextView
+        android:layout_gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:padding="10dp"
+        android:text="이달의 연락왕"
+        android:textAlignment="center"
+        android:background="#ffffff"
+        android:id="@+id/textView5" />
+    <ImageView
+        android:layout_gravity="center_vertical"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/rank_king"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:background="#ecfff3">
+
+            <TextView
+                android:textSize="20dp"
+                android:padding="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="통화량 랭킹"
+                android:textColor="#ffffff"
+                android:background="#ff6a6a"
+                android:textAlignment="center"/>
+
+            <ListView
+                android:padding="5dp"
+                android:id="@+id/rank1_ListView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:divider="@null"
+                android:dividerHeight="3dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginRight="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:background="#fff4e1">
+
+            <TextView
+                android:padding="5dp"
+                android:textSize="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="통화횟수 랭킹"
+                android:textColor="#ffffff"
+                android:background="#ff6a6a"
+                android:textAlignment="center"/>
+
+            <ListView
+                android:padding="5dp"
+                android:id="@+id/rank2_ListView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:divider="@null"
+                android:dividerHeight="3dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

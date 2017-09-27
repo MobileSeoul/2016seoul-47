@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="@drawable/profile_box"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+
+            <ImageView
+                android:id="@+id/proifile_itemImage"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/profile_image"/>
+
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_centerVertical="true">
+
+
+                <TextView
+                    android:gravity="center_horizontal"
+                    android:id="@+id/profile_name"
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20dp"
+                    android:layout_weight="1.01" />
+
+                <TextView
+                    android:layout_marginLeft="2dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/profile_phone"
+                    android:text="01043316657"
+                    android:layout_marginTop="5dp"
+                    android:textSize="15dp"/>
+
+                <TextView
+                    android:layout_marginLeft="2dp"
+                    android:id="@+id/profile_birth"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:layout_marginLeft="2dp"
+                    android:id="@+id/profile_wedding"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    />
+
+                </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:gravity="center_horizontal"
+                android:background="#fffdd4"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="이번달 통화량 : 30분"
+                android:layout_marginTop="5dp"
+                android:textSize="15dp"
+                android:id="@+id/profile_callvolume"/>
+
+            <TextView
+                android:gravity="center_horizontal"
+                android:background="#ddfae1"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="이번달 통화횟수 : 7회"
+                android:layout_marginTop="5dp"
+                android:id="@+id/profile_callcount"
+                android:textSize="15dp"/>
+        </LinearLayout>
+
+        <TextView
+            android:gravity="center_horizontal"
+            android:background="#898988"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="연락 2일후"
+            android:layout_marginTop="5dp"
+            android:id="@+id/profile_callpassdate"
+            android:textSize="15dp"
+            android:textColor="#ffffff"/>
+
+        </LinearLayout>
+</RelativeLayout>

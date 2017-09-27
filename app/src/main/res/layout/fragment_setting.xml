@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#fcecec">
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#e2caca"
+        android:id="@+id/noticeLinearLayout">
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:text="공지사항"
+            android:textSize="15dp"
+            android:layout_gravity="center_vertical"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_marginLeft="10dp"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/rightbutton"
+            android:textSize="25dp"
+            android:layout_gravity="center_vertical"
+            android:textColor="#a61111" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#e2caca"
+        android:id="@+id/makingLinearLayout">
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:text="만든이"
+            android:textSize="15dp"
+            android:layout_gravity="center_vertical"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_marginLeft="10dp"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/rightbutton"
+            android:textSize="25dp"
+            android:layout_gravity="center_vertical"
+            android:textColor="#a61111" />
+    </LinearLayout>
+
+
+
+</LinearLayout>

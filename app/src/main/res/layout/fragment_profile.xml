@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/linear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="1"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+
+            <ListView
+                android:id="@+id/profile_ListView"
+                android:layout_width="match_parent"
+                android:divider="@null"
+                android:dividerHeight="0dp"
+                android:layout_weight="0.49"
+                android:layout_height="430dp" />
+
+            <Button
+                android:layout_margin="10dp"
+                android:background="@drawable/profile_plus"
+                android:layout_width="170dp"
+                android:layout_height="35dp"
+                android:id="@+id/profile_plusbutton"
+                android:layout_gravity="center" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_horizontal">
+            <Spinner
+                android:layout_gravity="center_vertical"
+                android:id="@+id/profile_spinner"
+                android:layout_width="150dp"
+                android:layout_height="30dp"/>
+
+            <Button
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="10dp"
+                android:id="@+id/profile_deleteButton"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_below="@+id/linear"
+                android:background="@drawable/profile_bin"
+                android:onClick="btnClicked" />
+
+                <Button
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="10dp"
+                android:id="@+id/profile_callButton"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_below="@+id/linear"
+                android:background="@drawable/callbutton"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/profile_textView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="등록된 profile이 없습니다." />
+
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_0aba53b8c871708829bfe2e2c23aa95c2f1fed50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ea3b6120a52b9acd2ca947e6fa89d97f60a9def0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/gun0912.ted/tedpermission/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b5b075fd42793be1d5fb8f12fb29fdce3597f6c3">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/gun0912.ted-tedpermission-1.0.0_c58ac3823c2a16386ace66c6337baca8da5653af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_22e563a7cb426789e26527e92aa05f19fe17da1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_6eb519d430086917b14bfc74a3415a9f1f114e95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_bf1c9765d7899c2a526070243a3677841a944daa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="38a31a68167eaab98f23ae607036ee2ba720b3bb">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6d0da0615b8ec824ea4a14965fc24d787a363181/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.7/69d90fd7fb70e54746e26c10454c220e40a775ce/otto-1.3.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="69d90fd7fb70e54746e26c10454c220e40a775ce">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/otto-1.3.7_90f54aa0317b636a0613cdcee46db0640480f552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_a62c0d7786b1ec64b986b01694a70ce60fe0c5e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_49cd2c842f98c11ad269e77ebcba9481f06223c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_67de952a16ab18624d4962d19c00645cfd8d7880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_d2e56b2f98b32e31f39f3a52037fe7a8e3ec280a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_0d9ba87c422138b37358ae662f858bfb28bed1e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_b6444b13941b2ca5cd93871f4f50d83fb8872e62.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_17d52afa2e790ba4e287f05d908a4b2924e11ea3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_e8e68baacb863127de8ecb86841adba953fecceb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.0-beta1/54d65d51b5ebec588a19b2384efb6395b5bf5b18/MPAndroidChart-v3.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="54d65d51b5ebec588a19b2384efb6395b5bf5b18">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v3.0.0-beta1_2dcf8fb98928caf5d0e0fb877f8e4955aec062a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ea3b6120a52b9acd2ca947e6fa89d97f60a9def0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_bb1100394890676ad1ab8434452ed0ea9688929a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_22e563a7cb426789e26527e92aa05f19fe17da1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/gun0912.ted/tedpermission/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b5b075fd42793be1d5fb8f12fb29fdce3597f6c3">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/gun0912.ted-tedpermission-1.0.0_c58ac3823c2a16386ace66c6337baca8da5653af.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_bf1c9765d7899c2a526070243a3677841a944daa/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_b2b7c50a56cb9ba6629bb99bf83c5bff39bef41e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.7/69d90fd7fb70e54746e26c10454c220e40a775ce/otto-1.3.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="69d90fd7fb70e54746e26c10454c220e40a775ce">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/otto-1.3.7_90f54aa0317b636a0613cdcee46db0640480f552.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_6eb519d430086917b14bfc74a3415a9f1f114e95/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_a62c0d7786b1ec64b986b01694a70ce60fe0c5e4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_67de952a16ab18624d4962d19c00645cfd8d7880/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0d9ba87c422138b37358ae662f858bfb28bed1e5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_d2e56b2f98b32e31f39f3a52037fe7a8e3ec280a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_b6444b13941b2ca5cd93871f4f50d83fb8872e62/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_49cd2c842f98c11ad269e77ebcba9481f06223c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_17d52afa2e790ba4e287f05d908a4b2924e11ea3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_b2b7c50a56cb9ba6629bb99bf83c5bff39bef41e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2eb3b9c9727722007bb811e4cda0380dc8cbce62">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c5a1347de57839977cf2167d602248e9db0cea67/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.0-beta1/54d65d51b5ebec588a19b2384efb6395b5bf5b18/MPAndroidChart-v3.0.0-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="54d65d51b5ebec588a19b2384efb6395b5bf5b18">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v3.0.0-beta1_2dcf8fb98928caf5d0e0fb877f8e4955aec062a4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_e8e68baacb863127de8ecb86841adba953fecceb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_0aba53b8c871708829bfe2e2c23aa95c2f1fed50.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/tong-ilsong/Desktop/Areyoubusy/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_bb1100394890676ad1ab8434452ed0ea9688929a/classes.dex" />
+    </item>
+
+</items>

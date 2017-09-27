@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="@drawable/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp">
+
+        <Button
+            android:background="@drawable/graybox"
+            android:layout_marginLeft="20dp"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:text=" 성명 "/>
+
+        <EditText
+            android:layout_marginRight="20dp"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/nameEditText"
+            android:inputType="text"/>
+    </LinearLayout>
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:layout_marginLeft="20dp"
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:text=" 전화번호 "
+        android:background="@drawable/graybox"/>
+    <EditText
+        android:layout_marginRight="20dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/phoneNumEditText"
+        android:inputType="number" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_marginLeft="20dp"
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:text=" 푸시알람 주기(0~5) "
+            android:background="@drawable/graybox"/>
+        <EditText
+            android:layout_marginRight="20dp"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/pushEditText"
+            android:inputType="number" />
+    </LinearLayout>
+    <TextView
+        android:gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="알람주기 0 은 푸쉬알림 기능을 사용X "
+        android:textColor="#807e7e"/>
+
+    <LinearLayout
+
+        android:layout_marginTop="20dp"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" 생일 선택 " />
+
+    </LinearLayout>
+
+    <Button
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/graybox"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:text="생일"
+        android:id="@+id/birthdayButton"
+        android:layout_below="@+id/textView3"
+        android:textSize="20dp"
+        android:onClick="onButton1Clicked"
+        android:allowUndo="true" />
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+
+        <TextView
+
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" 결혼기념일 선택 " />
+
+    </LinearLayout>
+
+
+    <Button
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/graybox"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:text="결혼기념일"
+        android:id="@+id/marryButton"
+        android:layout_below="@+id/textView3"
+        android:textSize="20dp"
+        android:onClick="onButton2Clicked"
+        android:allowUndo="true" />
+
+    <Button
+        android:background="@drawable/savebutton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="100dp"
+        android:id="@+id/saveButton"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:onClick="onSaveButtonClicked" />
+
+
+</LinearLayout>
